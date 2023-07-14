@@ -37,9 +37,9 @@ WiFiClient client;
 
 const char apiUrl[] = "api.openweathermap.org";
 // Latitude and Longitude for weather location
-String lat = "39,78"; //
-String lon = "30,52";
-String apiKey = "eac25bf187fea0dfdd8788e5c4526795";
+String lat = "39,78"; 
+String lon = "30,52"; // eskisehir, turkey
+String apiKey = "_API_KEY_HERE_";
 
 String text;
 
