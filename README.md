@@ -10,3 +10,6 @@ NTP Clock - i did not have rtc laying around, i used ntp instead.
 
 Weather - By giving latitude and longtitude i get weather info from "api.openweathermap.org"
 
+<img src="front.jpeg" alt="front pic" title="front">
+
+<img src="back.jpeg" alt="back pic" title="back">
